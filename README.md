@@ -5,3 +5,4 @@
 * Includes gravatar to turn emails into avatars
 * "User is typing..." feature
 * On connect/disconnect the # of people in chatroom is broadcasted
+
